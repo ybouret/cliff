@@ -1,4 +1,4 @@
-# cliff
+# cliff [![DOI](https://zenodo.org/badge/594016145.svg)](https://zenodo.org/badge/latestdoi/594016145)
 ![logo](var/logo.png)
 
 ## Cellular Lithium Intake &amp; Fractionation Fit
